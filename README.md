@@ -15,7 +15,7 @@ The code implements a **Space–Time Reduced Order Model (ROM)** to accelerate t
 
 ## 📂 Repository Structure  
 ```
-┌── scripts/                           # Example scripts for running ROM simulations  
+┌── Scripts/                           # Example scripts for running ROM simulations  
 │   ├── Diff_Source_Galerkin.py        # Galerkin ROM for 2D Linear Diffusion Equation with Source Term
 │   ├── Diff_Source_LSPG.py            # LSPG ROM for 2D Linear Diffusion Equation with Source Term
 │   ├── Conv_Diff_Galerkin.py          # Galerkin ROM for 2D Linear Convection Diffusion Equation
