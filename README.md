@@ -22,8 +22,7 @@ The code implements a **Space–Time Reduced Order Model (ROM)** to accelerate t
 │   ├── Conv_Diff_LSPG.py              # LSPG ROM for 2D Linear Convection Diffusion Equation
 │   ├── Conv_Diff_Source_Galerkin.py   # Galerkin ROM for 2D Linear Convection Diffusion Equation with Source Term
 │   ├── Conv_Diff_Source_LSPG.py       # LSPG ROM for 2D Linear Convection Diffusion Equation with Source Term
-├── README.md                          # This file  
-└── LICENSE                            # CC-BY-4.0 license  
+└── README.md                          # This file  
 ```
 
 ## 📖 Citation  
@@ -44,4 +43,4 @@ DOI = {10.3390/math9141690}
 ```
 
 ## 📜 License  
-This project is licensed under the **Creative Commons Attribution 4.0 (CC BY 4.0)** license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution 4.0 (CC BY 4.0)** license.
