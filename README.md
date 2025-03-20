@@ -26,29 +26,6 @@ The code implements a **Space–Time Reduced Order Model (ROM)** to accelerate t
 └── LICENSE                            # CC-BY-4.0 license  
 ```
 
-## 🚀 Quick Start  
-### Prerequisites  
-Ensure you have **Python 3.7+** installed with the following dependencies:  
-```bash
-pip install numpy scipy matplotlib
-```
-
-### Running an Example  
-To run the **2D diffusion equation** example:  
-```bash
-python examples/diffusion.py
-```
-For the **2D convection-diffusion** equation:  
-```bash
-python examples/convection_diffusion.py
-```
-
-## 📊 Results & Performance  
-The ROM implementation achieves speed-ups of **O(10-1000x** compared to full-order models (FOMs) while maintaining relative errors below **0.01%** in most cases.  
-
-Sample results from the paper:  
-![Performance Comparison](results/performance_plot.png)
-
 ## 📖 Citation  
 If you use this code in your research, please cite:  
 ```bibtex
