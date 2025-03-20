@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.3390/math9141690.svg)](https://doi.org/10.3390/math9141690)
 
 ## 📌 Introduction  
-This repository contains the source code for the paper **"Efficient Space–Time Reduced Order Model for Linear Dynamical Systems in Python Using Less than 120 Lines of Code"**, published in *Mathematics 2021, 9, 1690* ([DOI: 10.3390/math9141690](https://doi.org/10.3390/math9141690)).  
+This repository contains the source code for the paper **"Efficient Space–Time Reduced Order Model for Linear Dynamical Systems in Python Using Less than 120 Lines of Code"**, published in *Mathematics* **2021**, 9, 1690 ([DOI: 10.3390/math9141690](https://doi.org/10.3390/math9141690)).  
 
 The code implements a **Space–Time Reduced Order Model (ROM)** to accelerate the simulation of **linear dynamical systems**, leveraging **Proper Orthogonal Decomposition (POD)** and **Least-Squares Petrov–Galerkin (LSPG) projection**.
 
