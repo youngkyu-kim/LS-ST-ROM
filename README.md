@@ -29,16 +29,17 @@ The code implements a **Space–Time Reduced Order Model (ROM)** to accelerate t
 ## 📖 Citation  
 If you use this code in your research, please cite:  
 ```bibtex
-@article{kim2021efficient,
-  author = {Kim, Youngkyu and Wang, Karen and Choi, Youngsoo},
-  title = {Efficient Space–Time Reduced Order Model for Linear Dynamical Systems in Python Using Less than 120 Lines of Code},
-  journal = {Mathematics},
-  volume = {9},
-  number = {14},
-  pages = {1690},
-  year = {2021},
-  publisher = {MDPI},
-  doi = {10.3390/math9141690}
+@Article{math9141690,
+AUTHOR = {Kim, Youngkyu and Wang, Karen and Choi, Youngsoo},
+TITLE = {Efficient Space–Time Reduced Order Model for Linear Dynamical Systems in Python Using Less than 120 Lines of Code},
+JOURNAL = {Mathematics},
+VOLUME = {9},
+YEAR = {2021},
+NUMBER = {14},
+ARTICLE-NUMBER = {1690},
+URL = {https://www.mdpi.com/2227-7390/9/14/1690},
+ISSN = {2227-7390},
+DOI = {10.3390/math9141690}
 }
 ```
 
