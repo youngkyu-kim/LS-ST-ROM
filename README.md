@@ -1,8 +1,5 @@
 # Efficient Space–Time Reduced Order Model for Linear Dynamical Systems
 
-![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)  
-[![DOI](https://zenodo.org/badge/DOI/10.3390/math9141690.svg)](https://doi.org/10.3390/math9141690)
-
 ## 📌 Introduction  
 This repository contains the source code for the paper **"Efficient Space–Time Reduced Order Model for Linear Dynamical Systems in Python Using Less than 120 Lines of Code"**, published in *Mathematics* **2021**, 9, 1690 ([DOI: 10.3390/math9141690](https://doi.org/10.3390/math9141690)).  
 
