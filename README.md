@@ -17,11 +17,16 @@ The code implements a **Space–Time Reduced Order Model (ROM)** to accelerate t
 ```
 ├── scripts/                           # Example scripts for running ROM simulations  
 │   ├── Diff_Source_Galerkin.py        # Galerkin Reduced Order Model for 2D Implicit Linear Diffusion Equation with Source Term
-│   ├── Diff_Source_LSPG.py            # 2D Convection-diffusion problem implementation
-│   ├── Conv_Diff_Galerkin.py          #
-│   ├── Conv_Diff_LSPG.py              #
-│   ├── Conv_Diff_Source_Galerkin.py   #
-│   ├── Conv_Diff_Source_LSPG.py       #
+│   ├── Diff_Source_LSPG.py            # LSPG Reduced Order Model for 2D
+  Implicit Linear Diffusion Equation with Source Term
+│   ├── Conv_Diff_Galerkin.py          # Galerkin Reduced Order Model for 2D Implicit Linear
+  Convection Diffusion Equation
+│   ├── Conv_Diff_LSPG.py              # LSPG Reduced Order Model for 2D
+  Implicit Linear Convection Diffusion Equation
+│   ├── Conv_Diff_Source_Galerkin.py   # Galerkin Reduced Order Model for 2D Implicit Linear
+  Convection Diffusion Equation with Source Term
+│   ├── Conv_Diff_Source_LSPG.py       # LSPG Reduced Order Model for 2D
+  Implicit Linear Convection Diffusion Equation with Source Term
 ├── README.md                          # This file  
 └── LICENSE                            # CC-BY-4.0 license  
 ```
